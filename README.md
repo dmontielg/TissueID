@@ -1,15 +1,29 @@
-# A novel taxonomy-independent deep learning microbiome approach allow for accuaret classification of human epithelial materials
+# A novel taxonomy-independent deep learning microbiome approach allow for accurate classification of human epithelial materials
 
-#### Celia Díez López, Athina Vidaki, Arwin Ralf, Diego Montiel González, Djawad Radjabzadeh2, Robert Kraaij, André G Uitterlinden, Cordula Haas4, Oscar Lao, and Manfred Kayser
+#### Celia Díez López, Athina Vidaki, Arwin Ralf, Diego Montiel González, Djawad Radjabzadeh2, Robert Kraaij, André G Uitterlinden, Cordula Haas, Oscar Lao, and Manfred Kayser
 
 ### Department of Genetic Identification: Erasmus MC University Medical Centre Rotterdam, The Netherlands
 
 ## Installation requirements 
 
     Operating system: Linux only. Tested on Ubuntu 16.04LTS, but should also work on newer version of Ubuntu. It should be easy to made it work on other Linux distributions. 
-    Python 3.6 with conda 3
+    
+    Install the following dependencies
+    
+    #### BWA 
+    
+    apt-get install bwa
 
-    -Following packages are need (skip if already installed)
+    #### SAMtools: We recommend the newests versions of SAMtools (e.g. > 1.4.1)
+
+    wget https://github.com/samtools/samtools/releases/download/1.4.1/samtools-1.4.1.tar.bz2 -O samtools.tar.bz2
+    tar -xjvf samtools.tar.bz2 
+    cd samtools-1.4.1/
+    ./configure
+    make
+    make install
+    
+    #### Python 3.6 and Anaconda 3 with following packages (skip if already installed)
     
     conda install -c conda-forge pandas==0.23.4;
     conda install -c conda-forge scikit-learn==0.20.0;
