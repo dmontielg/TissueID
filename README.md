@@ -1,6 +1,6 @@
-# A novel taxonomy-independent deep learning microbiome approach allow for accurate classification of human epithelial materials
+# Novel taxonomy-independent deep learning microbiome approach allows for accurate classification of human epithelial materials
 
-#### Celia Díez López, Athina Vidaki, Arwin Ralf, Diego Montiel González, Djawad Radjabzadeh2, Robert Kraaij, André G Uitterlinden, Cordula Haas, Oscar Lao, and Manfred Kayser
+#### Celia Díez López, Athina Vidaki, Arwin Ralf, Diego Montiel González, Djawad Radjabzadeh, Robert Kraaij, André G Uitterlinden, Cordula Haas, Oscar Lao, and Manfred Kayser
 
 ### Department of Genetic Identification: Erasmus MC University Medical Centre Rotterdam, The Netherlands
 
@@ -55,7 +55,7 @@ Please send an email at d.montielgonzalez@erasmusmc.nl for any comment and if th
 
 ## Reference
 
-#### C. Díez López et al., A novel taxonomy-independent deep learning microbiome approach allow for accuare classification of human epithelial materials (2019)
+#### C. Díez López et al., Novel taxonomy-independent deep learning microbiome approach allows for accuare classification of human epithelial materials (2019)
 
 https://doi.org/10.1016/j.fsigen.2019.03.015
 
