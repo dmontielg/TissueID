@@ -1,5 +1,13 @@
 #!/usr/bin/env python
 
+# Copyright (C) 2018-2019 Diego Montiel Gonzalez
+# Erasmus Medical Center
+# Department of Genetic Identification
+#
+# License: GNU General Public License v3 or later
+# A copy of GNU GPL v3 should have been included in this software package in LICENSE.txt.
+
+# TissueID: A novel taxonomy-independent deep learning microbiome approach allow for accurate classification of human epithelial materials
 
 import os
 import sys
@@ -13,10 +21,6 @@ import tensorflow as tf
 
 from argparse import ArgumentParser
 from sklearn.preprocessing import MinMaxScaler
-
-
-
-# In[2]:
 
 
 def get_frequency_table(mpileup):
@@ -180,12 +184,7 @@ def transform_df(df_pos):
         row = df_pos.iloc[i]
         row = row/sum(row)
         df = df.append(pd.DataFrame(np.array(row).reshape(1,6), columns = df_pos.columns))
-    df = df.fillna(0)
-    #scaler = MinMaxScaler()
-    #scaler.fit(df)
-    #df_transformed = scaler.transform(df)    
-    #df_transformed = pd.DataFrame(df_transformed, columns=df_pos.columns, index=df_pos.index)
-    
+    df = df.fillna(0)        
     df_transformed = df
     df_transformed.index = df_pos.index
     return df_transformed
