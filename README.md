@@ -53,6 +53,7 @@
 
     [-t 4] \                        Number of Cpus to use during alignment 
 
+See complete manual at the website: https://www.erasmusmc.nl/genetic_identification/resources/
 
 ## Comments and bug report
 
