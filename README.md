@@ -2,12 +2,12 @@
 
 #### Celia Díez López<sup>a</sup>, Athina Vidaki<sup>a</sup>, Arwin Ralf<sup>a</sup>, Diego Montiel González<sup>a</sup>, Djawad Radjabzadeh<sup>b</sup>, Robert Kraaij<sup>b,c</sup>, André G. Uitterlinden<sup>b,c</sup>, Cordula Haas<sup>d</sup>, Oscar Lao<sup>e,f</sup>, and Manfred Kayser<sup>a</sup>
 
-a Department of Genetic Identification, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
-b Department of Internal Medicine, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
-c Department of Epidemiology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
-d Zurich Institute of Forensic Medicine, University of Zurich, Zurich, Switzerland
-e CNAG-CRG, Centre for Genomic Regulation (CRG), Barcelona Institute of Science and Technology (BIST), Barcelona, Spain
-f Universitat Pompeu Fabra (UPF), Barcelona, Spain
+* a Department of Genetic Identification, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
+* b Department of Internal Medicine, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
+* c Department of Epidemiology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
+* d Zurich Institute of Forensic Medicine, University of Zurich, Zurich, Switzerland
+* e CNAG-CRG, Centre for Genomic Regulation (CRG), Barcelona Institute of Science and Technology (BIST), Barcelona, Spain
+* f Universitat Pompeu Fabra (UPF), Barcelona, Spain
 
 ## Installation requirements 
 
