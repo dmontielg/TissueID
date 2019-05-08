@@ -2,7 +2,13 @@
 
 #### Celia Díez López, Athina Vidaki, Arwin Ralf, Diego Montiel González, Djawad Radjabzadeh, Robert Kraaij, André G Uitterlinden, Cordula Haas, Oscar Lao, and Manfred Kayser
 
-### Department of Genetic Identification: Erasmus MC University Medical Centre Rotterdam, The Netherlands
+* Department of Genetic Identification: Erasmus MC University Medical Centre Rotterdam, The Netherlands
+* Department of Genetic Identification, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
+* Department of Internal Medicine, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
+* Department of Epidemiology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands
+* Zurich Institute of Forensic Medicine, University of Zurich, Zurich, Switzerland
+* CNAG-CRG, Centre for Genomic Regulation (CRG), Barcelona Institute of Science and Technology (BIST), Barcelona, Spain
+* Universitat Pompeu Fabra (UPF), Barcelona, Spain
 
 ## Installation requirements 
 
